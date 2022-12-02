@@ -263,3 +263,8 @@ a:hover {
     #ec3750
   );
 }
+
+.two-button {
+  display: flex;
+  justify-content: space-around;
+}
